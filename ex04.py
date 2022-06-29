@@ -4,7 +4,7 @@
 # Emanuel Franklyn
 # Carlos Eduardo
 #
-# data: 26/06/2022
+# data: 29/06/2022
 #
 #4. #Crie uma estrutura de repetição para fazer a leitura de vários números inteiros e ímpares e os armazene
 # dentro de uma lista, quando essa lista chegar a 5 elementos pare com a leitura. Em seguida, converta essa
