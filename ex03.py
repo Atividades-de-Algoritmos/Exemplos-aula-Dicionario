@@ -4,7 +4,7 @@
 # Emanuel Franklyn
 # Carlos Eduardo
 #
-# data: 26/06/2022
+# data: 29/06/2022
 #
 # 3 - Fazer um dicionário e adicionar 3 disciplinas com sua respectiva nota (ex: {'algoritmos': 90, 'física': 80,
 # 'matemática': 70}), depois criar uma estrutura que encontre dentro do dicionário qual foi a menor nota.
