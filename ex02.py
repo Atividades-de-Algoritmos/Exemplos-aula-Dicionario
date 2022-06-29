@@ -4,7 +4,7 @@
 # Emanuel Franklyn
 # Carlos Eduardo
 #
-# data: 26/06/2022
+# data: 29/06/2022
 #
 # Exercício 2: obtenha a chave de um valor mínimo do seguinte dicionário
 # d1 = {'Física': 82, Matemática': 65, 'História': 75}
