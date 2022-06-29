@@ -4,7 +4,7 @@
 # Emanuel Franklyn
 # Carlos Eduardo
 #
-# data: 26/06/2022
+# data: 29/06/2022
 #
 # 1 - verificar se um determinado valor existe em um dicionário.
 # #Obs: podemos usar o método values(), que retorna os valores como uma lista e, em seguida, usar o operador in.
