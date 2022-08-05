@@ -44,7 +44,7 @@
 <br>
 
 ## Sobre 📒:
-- .
+- Criar um programa que procura dentro de um dicionário se um determinado valor informado pelo usuário existe.
 
 <br><br>
 
