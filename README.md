@@ -1,4 +1,4 @@
-<a href="#Sumario"><img src="https://img.shields.io/badge/Exerc%C3%ADcios-4-blue?style=for-the-badge"/></a>
+<a href="#Sumario"><img src="https://img.shields.io/badge/Exerc%C3%ADcios-5-blue?style=for-the-badge"/></a>
 <img src="https://img.shields.io/github/stars/Atividades-de-Algoritmos/Exemplos-aula-Dicionario?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Lingua-Portugu%C3%AAs--Brasileiro-brightgreen?style=for-the-badge"/>
 <a href="https://github.com/Exemplos-aula-Dicionario/graphs/contributors"><img src="https://img.shields.io/github/contributors/Atividades-de-Algoritmos/Exemplos-aula-Dicionario.svg?style=for-the-badge"/></a>
