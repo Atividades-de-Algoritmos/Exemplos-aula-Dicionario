@@ -4,22 +4,24 @@
 # Emanuel Franklyn
 # Carlos Eduardo
 #
-# data: 29/06/2022
+# data: 30/07/2022
 #
-# 1 - verificar se um determinado valor existe em um dicionário.
-# #Obs: podemos usar o método values(), que retorna os valores como uma lista e, em seguida, usar o operador in.
+# 1 - Verificar se um determinado valor existe em um dicionário.
+# Obs: podemos usar o método values(), que retorna os valores como uma lista e, em seguida, usar o operador in.
 
-# entrada de dados
+# -- Entrada de dados --
 
-d1 = {'a': 100, 'b': 200, 'c': 300} # dicionário d1 - dicionário com valores inteiros
+d1 = {'a': 100, 'b': 200, 'c': 300} # Dicionário d1 - Dicionário com valores inteiros
+print(f'Dicionário d1: {d1}')
 
-######  1  ################
-print(200 in d1.values()) # verifica se o valor 200 existe em d1 e retorna um valor booleano (True ou False)
+# -- Processamento e saída de dados --
 
-######  2  ################
-valor = input("informe um valor: ") # entrada de dados - valor a ser verificado se existe em d1 (inteiro)
-print(valor in d1.values()) # retorna False porque esta entrando um STR e não INT como valor a ser verificado se existe em d1
+# // 1º Forma
+valor = int(input('\nInforme um valor inteiro: ')) # Solicitando um valor inteiro do user
+print(f'\n{valor in d1.values()}') # Verifica se um valor qualquer existe em d1 e imprime um valor booleano (True ou False)
 
-######  3  ################
-valor = int(input("informe um valor: ")) # entrada de dados - valor a ser verificado se existe em d1 (inteiro)
-print(valor in d1.values()) # retorna True porque esta entrando um INT e não STR como valor a ser verificado se existe em d1
+# // 2º Forma com falha
+valor = input("\nInforme um valor: ") # Solictando um valor em str do user
+print(f'\n{valor in d1.values()}') # Imprime False porque esta entrando um STR e não INT como valor a ser verificado se existe em d1
+
+print('\nFim do programa')
